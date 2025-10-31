@@ -41,7 +41,7 @@ const Dashboard = () => {
         </div>
         <div className="text-right">
           <p className="text-2xl text-secondary dark:text-light">1,257</p>
-          <p className="text-secondary dark:text-light">Users</p>
+          <p className="text-secondary dark:text-light">Userss</p>
         </div>
       </div>
       <div className="bg-white dark:bg-dark-surface shadow-elevation rounded-md flex items-center justify-between p-3 border-b-4 border-accent dark:border-accent text-secondary dark:text-light font-medium group transition-smooth">
